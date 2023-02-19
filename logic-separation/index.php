@@ -65,5 +65,5 @@ $filteredMovies = array_filter($movies, function ($movie) {
 });
 
 
-
+// Load 'html' page once the php logic is rendered
 require "index.view.php";
