@@ -1,7 +1,6 @@
 <?php require('partials/head.php'); ?>
 
 
-<body class="h-full">
     <div class="min-h-full">
         <?php require('partials/nav.php'); ?>
         <header class="bg-white shadow">
