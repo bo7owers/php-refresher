@@ -13,7 +13,6 @@ if ($read) {
 $books = ["The Angel's Game", "The Prisoner of Heaven", "The Labirith of the Spirits"];
 
 
-
 // Associative Arrays 
 
 $movies = [
@@ -67,4 +66,4 @@ $filteredMovies = array_filter($movies, function ($movie) {
 
 
 
-require "inexd.view.php";
+require "index.view.php";
