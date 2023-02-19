@@ -9,13 +9,14 @@
                 <div class="hidden md:block">
                     <div class="ml-10 flex items-baseline space-x-4">
                         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                        <a href="/" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
+                        <a href="/learning-php/page-links/"
+                            class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
                             aria-current="page">Home</a>
 
-                        <a href="/about"
+                        <a href="/learning-php/page-links/about.php"
                             class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About</a>
 
-                        <a href="/contact"
+                        <a href="/learning-php/page-links/contact.php"
                             class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Contact</a>
                     </div>
                 </div>
