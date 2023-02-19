@@ -16,7 +16,4 @@
             <!-- /End replace -->
         </div>
     </main>
-</div>
-</body>
-
-</html>
+    <?php require('partials/footer.php'); ?>
