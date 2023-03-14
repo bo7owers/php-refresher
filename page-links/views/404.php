@@ -5,7 +5,7 @@
         <!-- Replace with your content -->
         <h1 class="text-dark-900 text-xl font-extrabold">Sorry, not found.</h1>
 
-        <div class="mt-4"><a href="/learning-php/page-links" class="text-blue-600 underline underline-blue-600">Go back
+        <div class="mt-4"><a href="/learning-php/page-links/" class="text-blue-600 underline underline-blue-600">Go back
                 home</a></div>
         <!-- /End replace -->
     </div>
